@@ -1,7 +1,7 @@
 <h1>Hey, I'm Tyler! </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-OSU Capstone Portfolio Project Page [Click Here]((https://github.com/tyler4130/tyler4130/blob/main/Breakout)).
+OSU Capstone Portfolio Project Page [Click Here](https://github.com/tyler4130/tyler4130/blob/main/Breakout).
 
 <h2> 🤳 Connect with me:</h2>
 
